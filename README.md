@@ -1,5 +1,5 @@
-# vector-db-for-db-objects
-Create a vector db for oracle database objects(tables,views).
+# Vector DB: for oracle db objects and Q&A 
+# Vector DB: for Q&A few shot example
 
 ### **In the 1st example, we'll create a vector db based on a users/schemas views/tables of oracle database.**
  - **Retrieve all the views/tables from a oracle db user.**
